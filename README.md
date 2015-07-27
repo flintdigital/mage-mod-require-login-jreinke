@@ -10,7 +10,7 @@ Install with [modgit](https://github.com/jreinke/modgit):
 
     $ cd /path/to/magento
     $ modgit init
-    $ modgit clone require-login https://github.com/jreinke/magento-require-login.git
+    $ modgit add mage-mod-require-login-jreinke git@github.com:flintdigital/mage-mod-require-login-jreinke.git
 
 or download package manually:
 
