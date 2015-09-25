@@ -14,7 +14,7 @@ Install with [modgit](https://github.com/jreinke/modgit):
 
 or download package manually:
 
-* Download latest version [here](https://github.com/jreinke/magento-require-login/archive/master.zip)
+* Download latest version [here](https://github.com/flintdigital/mage-mod-require-login-jreinke/archive/master.zip)
 * Unzip in Magento root folder
 * Clear cache
 * Logout from admin then login again to access module configuration
