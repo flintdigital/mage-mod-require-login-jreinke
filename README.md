@@ -26,3 +26,5 @@ Full overview available [here](http://www.bubblecode.net/en/2012/05/15/a-magento
 * Go to "System > Configuration > Bubble RequireLogin"
 * Enable "Require Login" option
 * Edit regular expression if needed __(do not forget to add your IPN urls otherwhise payment transaction cannot be completed)__
+* To include the home page your regular expression will look like this '#(^/$|^$|customer\/account\/(log(in|out)|forgotpassword|resetpassword|create))#'
+
